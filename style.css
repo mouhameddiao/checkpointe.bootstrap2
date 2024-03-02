@@ -1,0 +1,97 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.bg{
+	background: url(images/pngtree-detailed-view-of-high-end-private-jet-parked-on-the-ground-picture-image_6405393.jpg);
+	background-repeat: no-repeat;
+	height: 1000px;
+	position: relative;
+	background-position: center;
+	background-size: cover;
+
+	
+
+	
+}
+
+
+
+
+
+.madimi-one-regular {
+	font-family: "Madimi One", sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	color: black;
+	
+	
+
+	
+  }
+  .btn-primary{
+	text-align: start;
+	position: absolute;
+	top: 20%;
+	width: 18%;
+
+
+  }
+
+  .poppins-thin{ font-family : "Poppins", sans-serif ; 
+	font-family : 100 ; 
+	 font-style: normal ; 
+}
+ 
+  
+  .protest-strike-regular {
+	
+	font-family: "Protest Strike", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	width: 50%;
+	height: 50%;
+	
+  }
+  .rubik-doodle  { 
+	font-family: "Rubik Doodle Triangles", system-ui;
+	font-weight: 400;
+	font-style: normal;
+	text-align: start;
+	position: absolute;
+	top: 8%;
+	width: 80%;
+	color: black;
+}
+  
+
+
+
+
+
+  
+  .rubik-maps-regular {
+	font-family: "Rubik Maps", system-ui;
+	font-weight: 620;
+	font-style: normal;
+	color: palevioletred;
+	
+  }
+  
+  
+.logo{
+
+	width: 50px;
+	height: 50px;
+	margin: 30px;
+	display: inline-block;
+
+}
+.momo{
+	width: 50px;
+	height: 50px;
+	display: flex;
+
+
+
+}
